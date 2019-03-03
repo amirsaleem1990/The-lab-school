@@ -1,7 +1,7 @@
 1-  introduction of computer language, what we can do with language which we can't do munually or we can do it but with lot of efforts and time.
 2-  print something to screen, get value from user, variables
 3-  data types (integer, string, float, boolean)
-4+5 data-containers(list, tupple, set, dictionary)
+4+5 data-collections(list, tupple, set, dictionary)
 6-  slicing(extract data from data-containor)
 7-  loops(for, while), type convertion, override a variable, 
 8-  small practical work, like Basic calculator
